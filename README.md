@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
+Frontend Software Developer | React • TypeScript • UI Engineering
 
-<!--
-**sahana-kulkarni/sahana-kulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Frontend-focused developer working on scalable, accessible web applications for
+court accounting systems, including End-of-Month processing, disbursables,
+and financial workflows.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, PostgreSQL  
+**Testing & Tools:** Jest, Git, GitHub, GitLab  
+**Practices:** Accessibility (a11y), Agile/Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### Enterprise Expense & Disbursal Management Dashboard
+**React, TypeScript, Tailwind CSS, React Query, Node.js, Express**
+- Built production-style approval workflows
+- Implemented server-state management with React Query
+- Designed reusable, maintainable UI components
+- Integrated REST APIs with validation and error handling
+
+## 🎯 Focus Areas
+- Full-stack application development
+- API design & integration
+- Frontend performance optimization
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/sahana-kulkarni/
