@@ -1,14 +1,8 @@
-<div align="center">
-  <h1>Sahana Kulkarni</h1>
-  <p>Full-Stack Software Engineer &nbsp;·&nbsp; React · TypeScript · Node.js · AI/LLM</p>
-  <p>
-    <a href="https://sahana-portfolio-psi.vercel.app">Portfolio</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/sahana-kulkarni">LinkedIn</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="mailto:sahanaharikulkarni@gmail.com">Email</a>
-  </p>
-</div>
+# Sahana Kulkarni
+
+Full-Stack Software Engineer — React · TypeScript · Node.js · AI/LLM
+
+[Portfolio](https://sahana-portfolio-psi.vercel.app) · [LinkedIn](https://linkedin.com/in/sahana-kulkarni) · [Email](mailto:sahanaharikulkarni@gmail.com) · Little Rock, AR
 
 ---
 
@@ -16,57 +10,56 @@
 
 ---
 
-## Work
+## Featured
 
-<table>
-  <tr>
-    <td width="120" valign="top"><sub>Aug 2024 – present</sub></td>
-    <td valign="top">
-      <strong>Software Engineer</strong> &nbsp;·&nbsp; Administrative Office of Courts<br/>
-      <sub>Financial accounting workflows · End-of-Month processing · TanStack Query · React · TypeScript · Material UI</sub>
-    </td>
-  </tr>
-</table>
+**[Document Q&A — AI-Powered RAG Application](https://github.com/sahana-kulkarni/doc-qa-app)**
+
+Upload a PDF, ask anything in plain language, get an answer grounded strictly in your document. Built a full RAG pipeline end-to-end: PDF ingestion, text chunking, Gemini vector embeddings, cosine similarity search over PostgreSQL, and token-by-token SSE streaming — cutting perceived response latency by ~60%.
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Gemini API` `SSE`
 
 ---
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="120" valign="top"><sub>AI / RAG</sub></td>
-    <td valign="top">
-      <strong><a href="https://github.com/sahana-kulkarni/doc-qa-app">Document Q&A</a></strong><br/>
-      Upload a PDF, ask anything. Answers are grounded in your document via a full RAG pipeline — chunking, Gemini vector embeddings, cosine similarity search over PostgreSQL, and token-by-token SSE streaming. Reduced perceived response latency ~60%.<br/>
-      <sub>React · TypeScript · Node.js · Express · PostgreSQL · Gemini API · SSE</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="120" valign="top"><sub>Full-Stack</sub></td>
-    <td valign="top">
-      <strong><a href="https://github.com/sahana-kulkarni/expense-disbursal-dashboard">Expense & Disbursal Dashboard</a></strong><br/>
-      Enterprise expense management with role-based approval workflows, JWT-secured APIs, and a modular route → controller → service backend architecture. Frontend integrated with React Query for optimistic updates and cache invalidation.<br/>
-      <sub>React · TypeScript · Node.js · Express · PostgreSQL · JWT · React Query</sub>
-    </td>
-  </tr>
-</table>
+**[Expense & Disbursal Dashboard](https://github.com/sahana-kulkarni/expense-disbursal-dashboard)**
+&nbsp;·&nbsp; Full-Stack
+
+Enterprise expense management with role-based approval workflows, JWT-secured APIs, and a modular route → controller → service backend. Integrated with React Query for caching, optimistic updates, and query invalidation.
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `JWT` `React Query`
+
+<br/>
+
+**[High-Performance Data Table](https://github.com/sahana-kulkarni/frontend-performance-dashboard)**
+&nbsp;·&nbsp; Frontend · Case Study
+
+Performance case study rendering 20k–50k row datasets. Baseline vs optimized comparison toggle to communicate wins clearly. Virtualization, debounced search, memoized filtering, profiling-driven decisions.
+
+`React` `TypeScript` `@tanstack/react-virtual` `Tailwind` `Vite`
 
 ---
 
 ## Stack
 
-```
-Frontend   React · TypeScript · Redux · TanStack Query · Tailwind CSS · Material UI
-Backend    Node.js · Express · REST APIs · JWT
-AI / LLM   Gemini API · RAG pipelines · vector embeddings · SSE streaming
-Database   PostgreSQL · MySQL
-DevOps     AWS (EC2, S3, IAM) · Docker · GitHub Actions
-Testing    Jest · React Testing Library
-```
+| | |
+|---|---|
+| **Frontend** | React, TypeScript, Redux, TanStack Query, Tailwind CSS, Material UI |
+| **Backend** | Node.js, Express, REST APIs, JWT |
+| **AI / LLM** | Gemini API, RAG pipelines, vector embeddings, SSE streaming |
+| **Database** | PostgreSQL, MySQL |
+| **DevOps** | AWS (EC2, S3, IAM), Docker, GitHub Actions |
+| **Testing** | Jest, React Testing Library |
 
 ---
 
-<div align="center">
-  <sub>Little Rock, AR &nbsp;·&nbsp; Open to remote opportunities</sub>
-</div>
+## Experience
+
+**Software Engineer** · Administrative Office of Courts, Little Rock AR
+`Aug 2024 – Present`
+
+Financial accounting workflows · End-of-Month processing · disbursables · TanStack Query · React · TypeScript · Material UI
+
+---
+
+<sub>Open to remote opportunities</sub>
